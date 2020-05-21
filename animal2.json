@@ -1,0 +1,37 @@
+[
+{
+"animalName": "Paddy",
+"animalPic": "images/Paddy.jpg",
+"animalAge": "10",
+"animalType": "giraffe",
+"animalBreed": "Cross Breed"
+},
+{
+"animalName": "Jemma",
+"animalPic": "images/Jem.jpg",
+"animalAge": "5",
+"animalType": "pain",
+"animalBreed": "Cross Breed Sproodle"
+},
+{
+"animalName": "Alfiexxx",
+"animalPic": "images/Alfie.jpg",
+"animalAge": "13",
+"animalType": "tiger",
+"animalBreed": "pain moggy"
+},
+{
+"animalName": "Jackie",
+"animalPic": "images/Jack.jpg",
+"animalAge": "10",
+"animalType": "cat",
+"animalBreed": "pain too moggy"
+},
+{
+"animalName": "Jacobie",
+"animalPic": "images/Jacob.jpg",
+"animalAge": "10",
+"animalType": "cat",
+"animalBreed": "Black and white moggy"
+}
+]
